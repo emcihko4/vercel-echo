@@ -50,7 +50,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- About section -->
   <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
     <h4><b>About Me</b></h4>
-    <img src="/pictures/0.jpg" alt="Me" class="w3-image w3-padding-32" width="600" height="650">
+    <img src="https://www.facebook.com/photo/?fbid=1385461355145706&set=a.102654126759775" alt="Me" class="w3-image w3-padding-32" width="600" height="650">
     <div class="w3-content w3-justify" style="max-width:600px">
       <h1>Jericho Acosta</h1>
       <p>Hello, I am a Bachelor of Science in Information Technology 3rd year Student of Saint Louis College, I love taking photos of sunset.
