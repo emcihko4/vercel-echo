@@ -50,7 +50,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- About section -->
   <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
     <h4><b>About Me</b></h4>
-    <img src="https://www.facebook.com/photo/?fbid=1385461355145706&set=a.102654126759775" alt="Me" class="w3-image w3-padding-32" width="600" height="650">
+    <img src="https://scontent.fcrk2-2.fna.fbcdn.net/v/t1.6435-9/182385403_1385461375145704_8724819825016461124_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeH13yUtq80LPsraiaA_fTzDjXjgspZYBOqNeOCyllgE6kVAOS7rDp46fRq8238qHo7BZL8Ww8R12DOHMlJJoAbB&_nc_ohc=u5lF_v8A6ccQ7kNvgEXo6Sn&_nc_ht=scontent.fcrk2-2.fna&cb_e2o_trans=t&oh=00_AYCjYWHZopc1Nuu91ykuHHHbM329CxSe-rBhAZYhs0GIow&oe=66718DF8" alt="Me" class="w3-image w3-padding-32" width="600" height="650">
     <div class="w3-content w3-justify" style="max-width:600px">
       <h1>Jericho Acosta</h1>
       <p>Hello, I am a Bachelor of Science in Information Technology 3rd year Student of Saint Louis College, I love taking photos of sunset.
